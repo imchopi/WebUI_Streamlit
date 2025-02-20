@@ -28,7 +28,7 @@ if st.button("Generar Imagen"):
             if "images" in data and len(data["images"]) > 0:
                 image_data = base64.b64decode(data["images"][0])
                 image = Image.open(BytesIO(image_data))
-                st.image(image, caption="Imagen Generada", use_column_width=True)
+                st.image(image, caption="Imagen Generada", use_container_width=True)  # Cambio aquí
             else:
                 st.error("No se recibió ninguna imagen en la respuesta.")
         else:
