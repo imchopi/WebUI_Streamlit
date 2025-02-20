@@ -48,7 +48,7 @@ streamlit run streamlit_app.py
 ```
 
 ## Uso
-0. Ve al enlace <a src="https://apf-jrt-webui.streamlit.app/">
+0. **[Web de Streamlit](https://apf-jrt-webui.streamlit.app/)**
 1. Escribe un prompt en el cuadro de texto.
 2. Ajusta los parámetros según tus necesidades (número de pasos y escala CFG).
 3. Haz clic en el botón "Generar Imagen".
