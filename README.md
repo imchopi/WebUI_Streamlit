@@ -52,8 +52,8 @@ streamlit run streamlit_app.py
 
 ## Captura de Pantalla
 <img src="/img/preview_image.png">
-![example2](https://github.com/user-attachments/assets/6f5667f3-7a45-40bf-a411-2cd6d652e690)
-![example3](https://github.com/user-attachments/assets/e2ece15e-5e1d-4c3d-a779-d6af3e4ea7e0)
+<img src="/img/example2.jpg">
+<img src="/img/example3.jpg">
 
 ## Estructura del Proyecto
 ```
